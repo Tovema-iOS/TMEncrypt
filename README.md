@@ -15,7 +15,7 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 source 'http://git.felink.com:3000/felink-iOS/FLSpecs'
-pod "FLEncrypt", '~> 1.0'
+pod "TMEncrypt", '~> 1.0'
 ```
 
 ## Author
