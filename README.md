@@ -1,4 +1,4 @@
-# FLEncrypt
+# TMEncrypt
 
 加密算法库
 
@@ -8,20 +8,22 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+iOS8, ARC
+
 ## Installation
 
-FLEncrypt is available through [CocoaPods](http://cocoapods.org). To install
+TMEncrypt is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-source 'http://git.felink.com:3000/felink-iOS/FLSpecs'
+source 'https://github.com/Tovema-iOS/Specs.git'
 pod "TMEncrypt", '~> 1.0'
 ```
 
 ## Author
 
-linxiaobin, linxiaobin@felink.com
+CodingPub, lxb_0605@qq.com
 
 ## License
 
-FLEncrypt is available under the MIT license. See the LICENSE file for more info.
+TMEncrypt is available under the MIT license. See the LICENSE file for more info.
