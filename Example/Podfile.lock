@@ -1,0 +1,16 @@
+PODS:
+  - TMEncrypt (1.0)
+
+DEPENDENCIES:
+  - TMEncrypt (from `../`)
+
+EXTERNAL SOURCES:
+  TMEncrypt:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TMEncrypt: dae5b89ce36173d57053c01e694e4e85d7df5cb0
+
+PODFILE CHECKSUM: 8a97cf2d53c4d7f3563bb361b9d029d19e55651a
+
+COCOAPODS: 1.7.2
